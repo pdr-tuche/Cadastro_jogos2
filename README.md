@@ -37,4 +37,4 @@ Se excluir um cadastro for necessário, selecione o Jogo na tabela e clique no b
 ![excluir](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/selecao_excluir_item.png)
 
 #
-##### that's all folks
+##### that's all folks!
