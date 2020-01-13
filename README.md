@@ -32,7 +32,7 @@ Para carregar um arquivo com dados de jogos já inscritos basta clicar no botão
 
 ![editar](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/selecao_editar_item.png)
 
-Se excluir um cadastro for necessário, selecione o Jogo na tabela e clique no botão "Excluir item". (Não é possível fazer múltiplas exclusões).
+Se excluir um cadastro for necessário, selecione o Jogo na tabela e clique no botão "Excluir item". (Não é possível fazer múltiplas exclusões, apenas uma exclusão por vez).
 
 ![excluir](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/selecao_excluir_item.png)
 
