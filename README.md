@@ -5,7 +5,7 @@ Aplicação desenvolvida para cadastrar jogos eletrônicos. Com o objetivo de ge
 
 ## Como usar:
 ### cadastro:
-Após inserir os dados necessários, basta clicar em confirmar para inserir ao estoque.
+Após inserir os dados necessários, basta clicar no botão "Confirmar" para inserir ao estoque.
 A aplicação não permite cadastros em branco, os atributos "nome de jogo" e "código" já existente no estoque, nome do jogo com menos de três caracteres e os atributos "quantidade" e "preço" com valores igual a zero. Caso houver alguma situação como os casos citados acima, será apresentada uma mensagem de alerta para o usuário corrigir os dados invalidados.
 ## Funções:
 Após feito o cadastro, é possível ver as estatísticas: média de preço, preço mais alto e mais baixo (imagem a seguir). As estatísticas são instantaneamente atualizadas a cada novo cadastro.
