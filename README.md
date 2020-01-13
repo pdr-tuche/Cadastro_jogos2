@@ -24,7 +24,7 @@ A aplicação permite a ordenação por disponibilidade dos dados cadastrados cl
 
 ![salvar](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/salvar_tabela.png)
 
-Para carregar um arquivo com dados de jogos já inscritos basta clicar no botão "carregar arquivo". Será aberta uma janela para ser selecionado qual arquivo abrir conforme a imagem abaixo.
+Para carregar um arquivo com dados de jogos já inscritos basta clicar no botão "carregar um arquivo". Será aberta uma janela para ser selecionado qual arquivo abrir conforme a imagem abaixo.
 
 ![carregar](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/selecao_carregar_arquivo.png)
 
