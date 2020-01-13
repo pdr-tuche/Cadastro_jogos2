@@ -1,6 +1,6 @@
 
 # cadastro_Fliperama
-#### Projeto da disciplina: Programação Estruturada 2019.2 , utilizando o framework Qt Creator.
+#### Projeto da disciplina: Programação Estruturada 2019.2 , interface gráfica criada utilizando o framework Qt SDK.
 Aplicação desenvolvida para cadastrar jogos eletrônicos. Com o objetivo de gerenciar o estoque de jogos eletrônicos de um fliperama indepedentemente da plataforma em que o jogo é executado.
 
 ## Como usar:
