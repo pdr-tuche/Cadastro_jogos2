@@ -20,7 +20,7 @@ A aplicação permite a ordenação por disponibilidade dos dados cadastrados cl
 
 ![ordenado_por_quantidade](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/ordenado_quantidade.png)
 
-é necessário salvar seus dados antes de fechar a aplicação. Para salvar seus dados basta clicar no botão "salvar" (em vermelho na imagem a seguir), e escolher o local de armazenamento. O seu arquivo deve ser do tipo .csv, outros tipos de arquivos não são suportados pela aplicação. Para que haja uma maior organização de seu estoque é recomendado nomear o arquivo com o nome da plataforma dos jogos que foram cadastrados, assim separando jogos de plataformas diferentes. Exemplo: (nintendo.csv , playstation.csv , xbox.csv). Não obstante, o usuário pode cadastrar jogos de várias plataformas em um unico arquivo se desejar.
+é necessário salvar seus dados antes de fechar a aplicação. Para salvar seus dados basta clicar no botão "salvar tabela" (em vermelho na imagem a seguir), e escolher o local de armazenamento. O seu arquivo deve ser do tipo .csv, outros tipos de arquivos não são suportados pela aplicação. Para que haja uma maior organização de seu estoque é recomendado nomear o arquivo com o nome da plataforma dos jogos que foram cadastrados, assim separando jogos de plataformas diferentes. Exemplo: (nintendo.csv , playstation.csv , xbox.csv). Não obstante, o usuário pode cadastrar jogos de várias plataformas em um unico arquivo se desejar.
 
 ![salvar](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/salvar_tabela.png)
 
@@ -28,7 +28,7 @@ Para carregar um arquivo com dados de jogos já inscritos basta clicar no botão
 
 ![carregar](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/selecao_carregar_arquivo.png)
 
-É possível editar um cadastro por vez, digitando novamente nos campos de atributos do cadastro (em amarelo na imagem a seguir), e após selecionar o Jogo o qual a modificação será feita clicando na tabela, basta clicar no botão "editar item" para que assim seja feita a modificação. (Não é possível fazer a modificação de apenas um atributo É necessário preencher todos os campos dos atributos para ser feita a modificação.)
+É possível editar um cadastro por vez, digitando novamente nos campos de atributos do cadastro (em amarelo na imagem a seguir), e após selecionar o Jogo o qual a modificação será feita clicando na tabela, basta clicar no botão "editar item" para que assim seja feita a modificação. (Não é possível fazer a modificação de apenas um atributo. É necessário preencher todos os campos dos atributos para ser feita a modificação.)
 
 ![editar](https://github.com/pdr-tuche/Cadastro_jogos2/blob/master/imagens/selecao_editar_item.png)
 
